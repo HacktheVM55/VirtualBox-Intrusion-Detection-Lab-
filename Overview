@@ -1,1 +1,15 @@
+Overview
 
+This project provides a controlled Intrusion Detection Lab using VirtualBox with a host-only network configuration. It features two virtual machines: KaliAttacker (Kali Linux Purple Edition), equipped with penetration testing tools, and UbuntuDefender (Ubuntu Desktop) running Snort IDS. The host-only adapter ensures complete isolation from external networks, allowing safe experimentation with attack-defense scenarios.
+
+The lab is designed for cybersecurity training, research, and hands-on practice, enabling users to:
+
+    Simulate real-world network attacks in a secure environment
+
+    Monitor and analyze traffic using Snort IDS
+
+    Develop and test custom detection rules
+
+    Strengthen understanding of intrusion detection concepts
+
+This setup offers a practical platform for students, professionals, and researchers to explore both offensive and defensive security techniques without risk to production systems.
